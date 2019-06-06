@@ -1,0 +1,22 @@
+Basic git commands
+-------------------------------------------------------------------------
+1 git init 
+
+2.git config --global user.name your_git_user_name
+example: git config --global user.name shikha1612
+
+3.git config --global user.email your_git_email
+example: git config--global user.email shikha16shrivastava@gmail.com
+
+4.git clone url of your repo.
+
+5.git status 
+
+6. git add -A
+
+7. git commit -m "ur msg"
+
+8. git push
+
+9. git pull
+
